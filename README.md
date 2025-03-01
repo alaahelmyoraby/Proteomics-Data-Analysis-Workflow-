@@ -283,5 +283,3 @@ DEGs %>% filter(adj.P.Val < 0.05 & abs(logFC) > 1) %>% dim %>% head %>% write.cs
 ```
 
 ---
-
-This README file includes all the code you provided, organized into sections for clarity. Let me know if you need further adjustments! 😊
